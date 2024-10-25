@@ -63,6 +63,9 @@ The experiments are based on 11 datasets which are binary, excepting 'image' and
 
 ## References
 dmilios (2018). GitHub - dmilios/dirichletGPC. [online] GitHub. Available at: https://github.com/dmilios/dirichletGPC
+
 GitHub. (2015). tdiethe/gunnar_raetsch_benchmark_datasets: Gunnar Raetsch’s Benchmark Datasets. [online] Available at: https://github.com/tdiethe/gunnar_raetsch_benchmark_datasets
+
 GPflow (2016). GPflow/gpflow at v2.9.1 · GPflow/GPflow. [online] GitHub. Available at: https://github.com/GPflow/GPflow/tree/v2.9.1/gpflow
+
 SheffieldML (2024). GPy/GPy at devel · SheffieldML/GPy. [online] GitHub. Available at: https://github.com/SheffieldML/GPy/tree/devel/GPy
