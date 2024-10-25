@@ -58,7 +58,7 @@ The **results** directory contains the following:
 
 ## Available datasets
 The **datasets** directory contains 13 benchmarks derived from the UCI, DELVE and STATLOG repositories
-More details are in **README.md** in _datasets_ directory
+More details are in **README.md** in _datasets_ directory.
 The experiments are based on 11 datasets which are binary, excepting 'image' and 'splice'
 
 ## References
