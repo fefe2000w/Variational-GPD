@@ -50,7 +50,7 @@ The **results** directory contains the following:
   Script that plots the comparison of Time, Error rate, MNLL, and ECE for all algorithms.
 
   - **plot_moment _matching.py**: 
-  script that plots log-pdf of Lognormal and Gamma distributions with same alphas.
+  script that plots log-pdf and cdf of Lognormal and Gamma distributions with same alphas.
 
   - **plot_prediction_banana.py**
   script that plots decision boundaries for the first split of banana dataset using GPD-variational, GPD-fixed, VI, LA, EP
